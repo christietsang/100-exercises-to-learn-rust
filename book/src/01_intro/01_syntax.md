@@ -33,9 +33,8 @@ In previous exercise, you saw the `greeting` function:
 
 ```rust
 // `fn` <function_name> ( <input params> ) -> <return_type> { <body> }
-fn greeting() -> &'static str {
-    // TODO: fix me 👇
-    "I'm ready to __!"
+fn greeting() {
+    "I'm ready to learn Rust!"
 }
 ```
 
